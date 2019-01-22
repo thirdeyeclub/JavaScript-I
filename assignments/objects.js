@@ -38,7 +38,7 @@ const Intern1 = {
   "name": "Gannie",
   "email": "gmartinson3@illinois.edu",
   "gender": "M"}
-  const Inter4 ={
+  const Intern5 ={
   "id": 5,
   "name": "Antonietta",
   "email": "adaine5@samsung.com",
@@ -51,13 +51,13 @@ const Intern1 = {
 // Mitzi's name
 console.log(Intern1.name);
 // Kennan's ID
-
+console.log(Intern2.id);
 // Keven's email
-
+console.log(Intern3.email);
 // Gannie's name
-
+console.log(Intern4.name);
 // Antonietta's Gender
-
+console.log(Intern5.gender);
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
 // console.log(kennan.speak());
