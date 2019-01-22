@@ -28,7 +28,7 @@ const Intern1 = {
   "name": "Kennan ",
   "email": "kdiben1@tinypic.com",
   "gender": "M"}
-  const = Intern3 = {
+  const Intern3 = {
   "id": 3,
   "name": "Keven",
   "email": "kmummery2@wikimedia.org",
@@ -38,7 +38,7 @@ const Intern1 = {
   "name": "Gannie",
   "email": "gmartinson3@illinois.edu",
   "gender": "M"}
-  const = Inter4 ={
+  const Inter4 ={
   "id": 5,
   "name": "Antonietta",
   "email": "adaine5@samsung.com",
@@ -49,7 +49,7 @@ const Intern1 = {
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
-console.log()
+console.log(Intern1.name);
 // Kennan's ID
 
 // Keven's email
